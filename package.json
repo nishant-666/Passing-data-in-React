@@ -1,5 +1,5 @@
 {
-  "name": "w-components",
+  "name": "passing-data-between-components",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
